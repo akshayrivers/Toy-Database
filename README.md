@@ -8,3 +8,5 @@
  SSTable
  Compaction 
  Testing
+``````
+![LSM](LSM.png)
